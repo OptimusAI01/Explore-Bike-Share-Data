@@ -26,9 +26,6 @@ Welcome to the US Bikeshare Data Explorer! This interactive Python script allows
 ## 📂 Files in this Repository
 
 *   `bikeshare_analyzer.py`: The main Python script to run the analysis.
-*   `chicago.csv`: Bikeshare data for Chicago.
-*   `new_york_city.csv`: Bikeshare data for New York City.
-*   `washington.csv`: Bikeshare data for Washington. (Note: This dataset does not contain 'Gender' or 'Birth Year' columns).
 *   `README.md`: This file! Providing an overview and instructions.
 
 ## 🛠️ Getting Started
@@ -59,7 +56,9 @@ Follow these instructions to get a copy of the project up and running on your lo
     source env/bin/activate  # On Windows: env\Scripts\activate
     pip install pandas matplotlib
     ```
-
+3. **Download the datasets:**
+   You can find them [here.](https://drive.google.com/drive/folders/1gO6AhEnageESHc4S6vgg3PugsxQ5ecpl?usp=sharing)
+   
 ### Running the Script
 
 1.  Navigate to the project directory in your terminal.
